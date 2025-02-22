@@ -9,10 +9,6 @@ Grabcam is a bash based script which is officially made for termux from this too
 
 * Termux
 
-### TESTED ON :
-
-* Termux
-
 ### REQUIREMENTS :
 * internet
 * php
@@ -25,7 +21,23 @@ Grabcam is a bash based script which is officially made for termux from this too
 * [+] Ngrok link !
 * [+] Easy for Beginners !
 
-## INSTALLATION [Termux] :
+## INSTALLATION :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
+* `pip install lolcat`
+* `git clone https://github.com/noob-hackers/grabcam`
+* `cd $HOME`
+* `ls`
+* `cd grabcam`
+* `ls`
+* `bash grabcam.sh`
+```
+
+## INSTALLATION :
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
