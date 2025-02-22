@@ -22,7 +22,7 @@ Grabcam is a bash based script which is officially made for termux from this too
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/grabcam`
+* `git clone https://github.com/Kaizzzo1/grabcam.git`
 * `cd $HOME`
 * `ls`
 * `cd grabcam`
